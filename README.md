@@ -59,9 +59,9 @@ KMS is a well-known method for activating Windows and Office products. This meth
 
 ## 🛠️ Usage
 ### Activating using MAS:
-**Method 1 - PowerShell (Recommended):**
+**Method 1 - PowerShell:**
 
-1. Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
+1. Right-click on the Windows start menu and select PowerShell **(Not CMD)**.
    
 2. Copy and paste the code below and press enter  
     ```
