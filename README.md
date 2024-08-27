@@ -5,7 +5,8 @@
 
 ## **Introduction**
 
-Welcome to the Windows and Office Activation Scripts repository! This collection of scripts is designed to help you activate various versions of Microsoft Windows and Office products using the KMS (Key Management Service) and MAS (Microsoft Activation Scripts) methods.<br>
+Welcome to the Windows and Office Activation Scripts repository! <br>
+This collection of scripts is designed to help you activate various versions of Microsoft Windows and Office products using the KMS (Key Management Service) and MAS (Microsoft Activation Scripts) methods.<br>
 These scripts simplify the activation process while offering flexibility for different product versions.<br>
 
 
