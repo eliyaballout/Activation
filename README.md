@@ -37,8 +37,8 @@ Each script is designed to streamline the activation process and includes built-
 ### **1. MAS (Microsoft Activation Scripts)**
 MAS offers a more versatile range of activation options, including the popular HWID (Hardware ID) method, which provides permanent activation. Unlike KMS, MAS does not require periodic reactivation, making it a convenient option for those seeking a more permanent solution.
 
-How It Works: MAS activates Windows and Office products by creating a digital license that is tied to your hardware.
-Supported Products: Windows 10, Windows 11, and Office products.
+**How It Works:** MAS activates Windows and Office products by creating a digital license that is tied to your hardware.
+**Supported Products:** Windows 10, Windows 11, and Office products.
 
 <br>
 
@@ -46,8 +46,8 @@ Supported Products: Windows 10, Windows 11, and Office products.
 ### **2. KMS (Key Management Service)**
 KMS is a well-known method for activating Windows and Office products. This method works by connecting your system to a KMS server, which provides activation for 180 days. The activation can be renewed automatically, ensuring that your product remains active.
 
-How It Works: The script applies a generic KMS key to your system and points it to an external KMS server for activation.
-Supported Products: Windows 10, Windows 11, Office 365 ProPlus, Office 2019, and Office 2021.
+**How It Works:** The script applies a generic KMS key to your system and points it to an external KMS server for activation.
+**Supported Products:** Windows 10, Windows 11, Office 365 ProPlus, Office 2019, and Office 2021.
 
 **Note:** KMS activation is temporary and must be renewed every 180 days.
 
