@@ -72,7 +72,9 @@ MAS offers a more versatile range of activation options, including the popular H
     irm https://massgrave.dev/get | iex
     ```
 
-3. You will see the activation options. Follow the on-screen instructions. That's all. :)
+3. You will see the activation options. Follow the on-screen instructions.
+   
+4. Enjoy your activated product! :)
    
 <br>
 
