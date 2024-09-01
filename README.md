@@ -59,7 +59,7 @@ MAS offers a more versatile range of activation options, including the popular H
 
 ## 🛠️ Usage
 ### Activating using MAS:
-**Method 1 - PowerShell:**
+**Method 1 - PowerShell (Recommended):**
 
 1. Right-click on the Windows start menu and select PowerShell **(Not CMD)**.
    
@@ -77,6 +77,22 @@ MAS offers a more versatile range of activation options, including the popular H
 4. Enjoy your activated product! :)
    
 <br>
+
+
+**Method 2 - Traditional:**
+
+1. Download and extract the [ZIP file](https://github.com/eliyaballout/Activation/archive/refs/heads/main.zip).
+   
+2. Choose the script `All activations.cmd`.
+   
+3. Run the script as an administrator: Right-click the file and choose **Run as administrator**.
+
+4. You will see the activation options. Follow the on-screen instructions.
+   
+5. Enjoy your activated product! :)
+   
+<br>
+
 
 
 ### Activating using KMS:
