@@ -67,7 +67,7 @@ MAS offers a more versatile range of activation options, including the popular H
     ```
     irm https://get.activated.win | iex
     ```
-    or (deprecated, will be retired on Aug 31 2024, use above instead)  
+    or (deprecated, will be retired on Dec 31 2024, use above instead)  
     ```
     irm https://massgrave.dev/get | iex
     ```
